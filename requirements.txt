@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+shapely
+seaborn
+matplotlib
+folium
+scipy
+jupyter-dash
+itsdangerous==2.0.1
+sqlalchemy
+ipython-sql
+pingouin
+statsmodels
+ipywidgets
+math
