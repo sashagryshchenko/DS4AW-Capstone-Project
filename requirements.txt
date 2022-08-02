@@ -13,7 +13,6 @@ ipython-sql
 pingouin
 statsmodels
 ipywidgets
-matplotlib.pyplot
 plotly.express
 matplotlib.patches
 train_test_split
